@@ -9,4 +9,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-up&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w-up&layout=compact)](https://github.com/w-up/w-up/edit/main/README.md)
